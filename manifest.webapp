@@ -1,0 +1,14 @@
+{
+  "name": "WakeUp",
+  "description": "A Sleep Preventer App for FirefoxOS apps",
+  "launch_path": "/index.html",
+  "icons": {
+    "512": "/img/wakeup.png",
+    "128": "/img/wakeup.png"
+  },
+  "developer": {
+    "name": "Vishnu, Jishnu and Safdar",
+    "url": ""
+  },
+  "default_locale": "en"
+}
